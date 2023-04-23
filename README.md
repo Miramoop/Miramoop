@@ -1,4 +1,5 @@
-<h1 align="left">Hi, I'm Miranda Morris</h1>
+<h1 align="left">I'm Miranda Morris</h1>
+<h2 align="left">Computer Science Major at Davenport University</h2>
 
 I’m currently working on [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
 & [Portfolio Website](juniperistic.com)
