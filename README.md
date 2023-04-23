@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Miranda Morris</h1>
+<h1 align="left">Hi, I'm Miranda Morris</h1>
 
 I’m currently working on [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
 & [Portfolio Website](juniperistic.com)
