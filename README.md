@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Miranda Morris</h1>
 
 I’m currently working on [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
-Also, my [Portfolio Website](juniperistic.com)
+& [Portfolio Website](juniperistic.com)
 
 I’m currently learning **C#, Html, CSS, Javascript, & Blender**
 
