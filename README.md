@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miranda Morris</h1>
-- 🔭 I’m currently working on [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
+- I’m currently working on [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
 
-- 🌱 I’m currently learning **C#, Html, CSS, & Javascript**
+- I’m currently learning **C#, Html, CSS, & Javascript**
 
-- 👨‍💻 All of my projects are available at [http://juniperistic.com/](http://juniperistic.com/)
+- All of my projects are available at [http://juniperistic.com/](http://juniperistic.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
