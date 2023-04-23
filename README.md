@@ -2,10 +2,10 @@
 
 :sunglasses: Computer Science Major at Davenport University
 
-I’m currently working on [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
+Current Work: [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
 & [Portfolio Website](juniperistic.com)
 
-I’m currently learning **C#, Html, CSS, Javascript, Aseprite, & Blender**
+Currently learning: **C#, Html, CSS, Javascript, Aseprite, & Blender**
 
 All of my projects are available at [http://juniperistic.com/](http://juniperistic.com/)
 
