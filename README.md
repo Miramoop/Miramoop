@@ -1,6 +1,6 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
-Computer Science Major at Davenport University
+:sunglasses: Computer Science Major at Davenport University
 
 I’m currently working on [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
 & [Portfolio Website](juniperistic.com)
