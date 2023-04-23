@@ -1,4 +1,4 @@
-<h1 align="left">I'm Miranda Morris</h1>
+<h1 align="left">I'm Miranda Morris (she/her) </h1>
 
 :sunglasses: Computer Science Major at Davenport University
 
