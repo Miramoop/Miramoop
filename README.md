@@ -2,7 +2,7 @@
 
 Computer Science Major at Davenport University
 
-Current Work: [Flower Picker](https://github.com/Juniperistic/Flower-Picker))
+Current Work: [Flower Picker](https://github.com/Juniperistic/Flower-Picker)
 & [Portfolio Website](juniperistic.com)
 
 Currently learning: **C#, Html, CSS, Javascript, Aseprite, & Blender**
