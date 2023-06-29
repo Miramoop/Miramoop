@@ -2,7 +2,7 @@
 
 Computer Science Major at Davenport University
 
-Current Work:[Portfolio Website](http://juniperistic.com/)
+Current Work: [Portfolio Website](http://juniperistic.com/)
 
 Currently learning: **C#, Html, CSS, Javascript, Aseprite, & Blender**
 
