@@ -6,7 +6,7 @@ Current Work: [Portfolio Website](http://juniperistic.com/) & [Mission Demolitio
 
 Currently learning: **C#, Html, CSS, Javascript, Aseprite, & Blender**
 
-All of my projects are available at [http://juniperistic.com/](http://juniperistic.com/)
+Some of my projects are available at [http://juniperistic.com/](http://juniperistic.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
