@@ -2,7 +2,7 @@
 
 Computer Science Major at Davenport University
 
-Current Work: [Portfolio Website](http://juniperistic.com/), [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game), [Mission Demolition](https://github.com/Juniperistic/MissionDemolition), & [Prospector Solitaire](https://github.com/Juniperistic/ProspectorSolitaire).
+Current Work: [Portfolio Website](http://juniperistic.com/), [Mission Demolition](https://github.com/Juniperistic/MissionDemolition), [Prospector Solitaire](https://github.com/Juniperistic/ProspectorSolitaire), & [Visual Novel](https://github.com/Juniperistic/VisualNovel).
 
 Currently learning: **C#, Html, CSS, Javascript, Aseprite, & Blender**
 
