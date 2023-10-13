@@ -1,6 +1,8 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
 Computer Science Major at Davenport University
+
+<h1 align="left">Current Work: [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io), [Mission Demolition](https://github.com/Juniperistic/MissionDemolition), & [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)</h1>
 Current Work: [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io), [Mission Demolition](https://github.com/Juniperistic/MissionDemolition), & [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game)
 
 Currently learning: **C#, Html, CSS, Javascript, & Aseprite**
