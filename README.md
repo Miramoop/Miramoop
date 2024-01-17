@@ -2,7 +2,7 @@
 
 Computer Science Major at Davenport University
 
-Check out my Current Website : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
+Check out the Repo for my Current Website : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
 Check out the Repo for my Upcoming Website: [Portfolio Website Version 2](https://github.com/Juniperistic/PortfolioWebsiteVer2) 
 
