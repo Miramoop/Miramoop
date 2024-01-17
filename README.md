@@ -2,10 +2,9 @@
 
 Computer Science Major at Davenport University
 
-Portfolio Site (Contains two of the games I developed) : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
+Check out my Current Website : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
-Currently in Development: [Portfolio Website Version 2](https://github.com/Juniperistic/PortfolioWebsiteVer2) 
-
+Check out the Repo for my Upcoming Website: [Portfolio Website Version 2](https://github.com/Juniperistic/PortfolioWebsiteVer2) 
 
 Games in Development (Paused Currently) : [Mission Demolition](https://github.com/Juniperistic/MissionDemolition), & [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game) 
 
