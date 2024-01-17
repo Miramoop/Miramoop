@@ -1,6 +1,7 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
--Junior at Davenport University
+-Junior at Davenport University 
+
 -Studying Compsci w/ Concentration in Gaming & Simulation
 
 Check out the Repo for my Current Website : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
