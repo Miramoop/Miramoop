@@ -1,14 +1,16 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
--Junior at Davenport University 
+- Junior at Davenport University 
 
--Studying Compsci w/ Concentration in Gaming & Simulation
+- Studying Compsci w/ Concentration in Gaming & Simulation
 
-Check out the Repo for my Current Website : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
+**Main Projects**
 
-Check out the Repo for my Upcoming Website: [Portfolio Website Version 2](https://github.com/Juniperistic/PortfolioWebsiteVer2) 
+Current Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
-Games in Development (Paused Currently) : [Mission Demolition](https://github.com/Juniperistic/MissionDemolition), & [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game) 
+Upcoming Website (In Development) : [Portfolio Website Version 2](https://github.com/Juniperistic/PortfolioWebsiteVer2) 
+
+Games in Development () : [Mission Demolition](https://github.com/Juniperistic/MissionDemolition), & [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game) 
 
 Currently learning: **C#, Html, CSS, Java, Javascript, Python, & Aseprite**
 
