@@ -3,9 +3,8 @@
 - Junior at Davenport University 
 
 - Studying Compsci w/ Concentration in Gaming & Simulation
-
----------------------------------------------------------------------------
-**Main Projects:**
+  
+<h2 align="left">Main Projects:</h2>
 
 Current Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
