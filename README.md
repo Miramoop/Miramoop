@@ -4,7 +4,8 @@
 
 - Studying Compsci w/ Concentration in Gaming & Simulation
 
-**Main Projects**
+-------------------------------------------------------------------------
+**Main Projects:**
 
 Current Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
