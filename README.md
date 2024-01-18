@@ -2,7 +2,7 @@
 
 - Junior at Davenport University 
 
-- Studying Compsci w/ Concentration in Gaming & Simulation
+- Studying CompSci w/ Concentration in Gaming & Simulation
   
 <h2 align="left">Main Projects:</h2>
 
