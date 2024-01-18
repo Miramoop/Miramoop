@@ -10,11 +10,9 @@ Current Website Repo : [Portfolio Website](https://github.com/Juniperistic/junip
 
 Upcoming Website (In Development) : [Portfolio Website Version 2](https://github.com/Juniperistic/PortfolioWebsiteVer2) 
 
-Games in Development () : [Mission Demolition](https://github.com/Juniperistic/MissionDemolition), & [Dino Rhythm Game](https://github.com/Juniperistic/Dino-Rhythm-Game) 
-
 Currently learning: **C#, Html, CSS, Java, Javascript, Python, & Aseprite**
 
-Some of my projects are available at [http://juniperistic.com/](http://juniperistic.com/)
+Some of my projects are also available at: [http://juniperistic.com/](http://juniperistic.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
