@@ -8,8 +8,6 @@
 
 Current Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
-Upcoming Website (In Development) : [Portfolio Website Version 2](https://github.com/Juniperistic/PortfolioWebsiteVer2)
-
 Upcoming Blog Website (In Development) : [Blog Website](https://github.com/Juniperistic/personal-blog-website)
 
 Currently learning: **C#, Html, CSS, Java, Javascript, Python, Jupyter, Assembly, & Aseprite**
