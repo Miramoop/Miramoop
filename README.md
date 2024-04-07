@@ -8,11 +8,11 @@
 
 Portfolio Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
-[Portfolio Website](https://www.juniperistic.com/)
+Link to Website: [https://www.juniperistic.com/](https://www.juniperistic.com/)
 
 Blog Website (In Development) : [Blog Website](https://github.com/Juniperistic/personal-blog-website)
 
-[Blog Website](https://www.miramoop.com/)
+Link to Website: [https://www.miramoop.com/](https://www.miramoop.com/)
 
 Currently learning: **C#, Html, CSS, Java, Javascript, Python, Jupyter, Assembly, & Aseprite**
 
