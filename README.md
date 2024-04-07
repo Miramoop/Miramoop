@@ -6,13 +6,15 @@
   
 <h2 align="left">Main Projects:</h2>
 
-Current Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
+Portfolio Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
-Upcoming Blog Website (In Development) : [Blog Website](https://github.com/Juniperistic/personal-blog-website)
+[Portfolio Website](https://www.juniperistic.com/)
+
+Blog Website (In Development) : [Blog Website](https://github.com/Juniperistic/personal-blog-website)
+
+[Blog Website](https://www.miramoop.com/)
 
 Currently learning: **C#, Html, CSS, Java, Javascript, Python, Jupyter, Assembly, & Aseprite**
-
-Some of my projects are also available at: [http://juniperistic.com/](http://juniperistic.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
