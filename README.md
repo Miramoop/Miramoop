@@ -6,6 +6,10 @@
   
 <h2 align="left">Main Projects:</h2>
 
+Spotify Recommender Repo (In Development) : [Spotify Recommender](https://github.com/Miramoop/Spotify-Recommender)
+
+Link to Spotify Recommender : [https://miramoop.github.io/Spotify-Recommender/](https://miramoop.github.io/Spotify-Recommender/)
+
 Portfolio Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
 
 Link to Website: [https://www.juniperistic.com/](https://www.juniperistic.com/)
