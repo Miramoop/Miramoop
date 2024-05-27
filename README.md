@@ -10,7 +10,7 @@ Spotify Recommender Repo (In Development) : [Spotify Recommender](https://github
 
 Link to Spotify Recommender : [https://miramoop.github.io/Spotify-Recommender/](https://miramoop.github.io/Spotify-Recommender/)
 
-Portfolio Website Repo : [Portfolio Website](hhttps://github.com/Miramoop/miramoop.github.io)
+Portfolio Website Repo : [Portfolio Website](https://github.com/Miramoop/miramoop.github.io)
 
 Link to Website: [https://www.miramoop.com/](https://www.miramoop.com/)
 
