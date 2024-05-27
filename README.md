@@ -10,9 +10,9 @@ Spotify Recommender Repo (In Development) : [Spotify Recommender](https://github
 
 Link to Spotify Recommender : [https://miramoop.github.io/Spotify-Recommender/](https://miramoop.github.io/Spotify-Recommender/)
 
-Portfolio Website Repo : [Portfolio Website](https://github.com/Juniperistic/juniperistic.github.io)
+Portfolio Website Repo : [Portfolio Website](hhttps://github.com/Miramoop/miramoop.github.io)
 
-Link to Website: [https://www.juniperistic.com/](https://www.juniperistic.com/)
+Link to Website: [https://www.miramoop.com/](https://www.miramoop.com/)
 
 Currently learning: **C#, Html, CSS, Java, Javascript, Python, Jupyter, Assembly, & Aseprite**
 
