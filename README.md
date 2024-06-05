@@ -6,7 +6,7 @@
   
 <h2 align="left">Main Projects:</h2>
 QuizTunes Repo (In Development) : [QuizTunes](https://github.com/Miramoop/QuizTunes)
-Link to QuizTunes : [https://miramoop.github.io/QuizTunes/](https://miramoop.github.io/QuizTunes/)
+Link to QuizTunes : [https://miramoop.github.io/QuizTunes](https://miramoop.github.io/QuizTunes)
 
 Portfolio Website Repo : [Portfolio Website](https://github.com/Miramoop/miramoop.github.io)
 
