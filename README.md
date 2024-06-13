@@ -6,9 +6,13 @@
   
 <h2 align="left">Main Projects:</h2>
 
-QuizTunes Repo (In Development): [Quiz Tunes](https://github.com/Miramoop/Quiz-Tunes)
+Quiz Tunes Repo: [Quiz Tunes](https://github.com/Miramoop/Quiz-Tunes)
 
-Link to QuizTunes : [https://miramoop.github.io/QuizTunes](https://miramoop.github.io/QuizTunes)
+Link to Quiz Tunes : [https://miramoop.github.io/QuizTunes](https://miramoop.github.io/QuizTunes)
+
+Quiz Tunes to React Repo: [Quiz Tunes React](https://github.com/Miramoop/Quiz-Tunes-React)
+
+Link to Quiz Tunes React App: [https://quiz-tunes-react.vercel.app/](https://quiz-tunes-react.vercel.app/)
 
 Portfolio Website Repo: [Portfolio Website](https://github.com/Miramoop/miramoop.github.io)
 
