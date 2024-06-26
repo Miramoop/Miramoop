@@ -6,7 +6,8 @@
   
 <h2 align="left">Main Projects:</h2>
 
-Quiz Tunes Repo: [Quiz Tunes](https://github.com/Miramoop/Quiz-Tunes)
+<details>Quiz Tunes Repo: [Quiz Tunes](https://github.com/Miramoop/Quiz-Tunes)</details>
+
 
 Link to Quiz Tunes : [https://miramoop.github.io/QuizTunes](https://miramoop.github.io/Quiz-Tunes)
 
