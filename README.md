@@ -12,7 +12,7 @@ Link to Quiz Tunes : [https://miramoop.github.io/QuizTunes](https://miramoop.git
 
 Quiz Tunes to React Repo: [Quiz Tunes React](https://github.com/Miramoop/Quiz-Tunes-React)
 
-Link to Quiz Tunes React App: [https://quiz-tunes-react.vercel.app/](https://quiz-tunes-react.vercel.app/)
+Link to Quiz Tunes React App: [https://quiz-tunes-react.vercel.app/](https://www.quiztunes.com/)
 
 Portfolio Website Repo: [Portfolio Website](https://github.com/Miramoop/miramoop.github.io)
 
