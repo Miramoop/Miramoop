@@ -10,7 +10,7 @@ Quiz Tunes Repo: [Quiz Tunes](https://github.com/Miramoop/Quiz-Tunes)
 
 Link to Quiz Tunes : [https://miramoop.github.io/QuizTunes](https://miramoop.github.io/Quiz-Tunes)
 
-Quiz Tunes to React Repo: [Quiz Tunes React](https://github.com/Miramoop/Quiz-Tunes-React)
+Quiz Tunes React Repo: [Quiz Tunes React](https://github.com/Miramoop/Quiz-Tunes-React)
 
 Link to Quiz Tunes React App: [https://www.quiztunes.com/](https://www.quiztunes.com/)
 
