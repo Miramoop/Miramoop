@@ -20,8 +20,7 @@
 | ------------- | ------------- | ------------- |
 | <img align="center" src="QuizTunesLogo.png" alt="Quiz Tunes Logo" width="300">  | [Repo](https://github.com/Miramoop/Quiz-Tunes) <br><br> [Website](https://miramoop.github.io/Quiz-Tunes)  | [Repo](https://github.com/Miramoop/Quiz-Tunes-React) <br><br> [Website](https://www.quiztunes.com/) |
 | <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Repo](https://github.com/Miramoop/miramoop.github.io) <br><br> [Website](https://miramoop.github.io/) | [Repo](https://github.com/Miramoop/miramoop-github-io-react) <br><br> [Website](https://www.miramoop.com/) |
-
-<p align="right">[[↑ Back to Top ↑]](#-table-of-contents)</p>
+<p align="right">[[↑ Back to Top ↑]](#table-of-contents)</p>
 
 </details>
   
