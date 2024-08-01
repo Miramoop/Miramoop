@@ -16,11 +16,11 @@ Link to Quiz Tunes React App: [https://www.quiztunes.com/](https://www.quiztunes
 
 Portfolio Website Repo: [Portfolio Website](https://github.com/Miramoop/miramoop.github.io)
 
-Link to Website: [https://www.miramoop.com/](https://www.miramoop.com/)
+Link to Website: [https://www.miramoop.com/](https://miramoop.github.io/)
 
 Portfolio Website React Repo: [Portfolio Website React](https://github.com/Miramoop/miramoop.github.io.react)
 
-Link to Website: [https://miramoop-github-io-react.vercel.app/](https://miramoop-github-io-react.vercel.app/)
+Link to Website: [https://miramoop-github-io-react.vercel.app/](https://www.miramoop.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
