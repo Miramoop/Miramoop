@@ -16,21 +16,18 @@
 [[↑ Back to Top ↑]](#-table-of-contents)
 
 </details>
-
-
-
-
-
-
   
-<h2 align="left">Main Projects:</h2>
+## Stats
+<details>
+    <summary>Click to show / hide <code>Stats</code></summary><br>
+![Miramoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=miramoop&hide=contribs&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miramoop&hide_progress=true)
 
-| Projects  | Original | React |
-| ------------- | ------------- | ------------- |
-| <img align="center" src="QuizTunesLogo.png" alt="Quiz Tunes Logo" width="300">  | [Repo](https://github.com/Miramoop/Quiz-Tunes) <br><br> [Website](https://miramoop.github.io/Quiz-Tunes)  | [Repo](https://github.com/Miramoop/Quiz-Tunes-React) <br><br> [Website](https://www.quiztunes.com/) |
-| <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Repo](https://github.com/Miramoop/miramoop.github.io) <br><br> [Website](https://miramoop.github.io/) | [Repo](https://github.com/Miramoop/miramoop-github-io-react) <br><br> [Website](https://www.miramoop.com/) |
+[[↑ Back to Top ↑]](#-table-of-contents)
 
-  
+</details>
+
+
 <h2 align="left">Stats:</h2>
 
 ![Miramoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=miramoop&hide=contribs&show_icons=true&theme=transparent)
