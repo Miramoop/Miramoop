@@ -1,4 +1,5 @@
 <h1 align="left">I'm Miranda Morris</h1>
+
 - Senior at Davenport University 
 
 - Studying CompSci w/ Concentration in Gaming & Simulation
