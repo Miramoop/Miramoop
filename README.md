@@ -1,6 +1,6 @@
 | Projects  | Link |
 | ------------- | ------------- |
-| <img align="center" src="QuizTunesLogo" alt="Quiz Tunes Logo" width="300">  | [Quiz Tunes](https://github.com/Miramoop/Quiz-Tunes)  |
+| <img align="center" src="QuizTunesLogo.png" alt="Quiz Tunes Logo" width="300">  | [Quiz Tunes](https://github.com/Miramoop/Quiz-Tunes)  |
 | <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Portfolio Website](https://github.com/Miramoop/miramoop.github.io) |
 
 
