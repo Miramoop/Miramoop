@@ -9,8 +9,8 @@
 - [📝 Table of Contents](#-table-of-contents)
 - [📝 Main Projects](#-main-projects)
 - [📝 Stats](#-stats)
-- [📝 Connect with Me](#-connect-with-me)
-- [📝 Langugaes & Tools](#-languages-&-tools)
+- [📝 Connect with Me](#-connect-w-me)
+- [📝 Langugaes & Tools](#-languages--tools)
   
 ## 📝 Main Projects
 <details open>
