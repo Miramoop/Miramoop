@@ -8,8 +8,8 @@
 
 | Projects  | Original | React |
 | ------------- | ------------- | ------------- |
-| <img align="center" src="QuizTunesLogo.png" alt="Quiz Tunes Logo" width="300">  | [Quiz Tunes Repo](https://github.com/Miramoop/Quiz-Tunes) <br>[Quiz Tunes Site](https://miramoop.github.io/Quiz-Tunes)  | [Quiz Tunes React Repo](https://github.com/Miramoop/Quiz-Tunes-React) <br> [Quiz Tunes Site](https://www.quiztunes.com/) |
-| <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Portfolio Website Repo](https://github.com/Miramoop/miramoop.github.io) <br> [Portfolio Site](https://miramoop.github.io/) | [Portfolio Website React Repo](https://github.com/Miramoop/miramoop-github-io-react) <br> [Portfolio Website React Site](https://www.miramoop.com/) |
+| <img align="center" src="QuizTunesLogo.png" alt="Quiz Tunes Logo" width="300">  | [Repo](https://github.com/Miramoop/Quiz-Tunes) <br>[Site](https://miramoop.github.io/Quiz-Tunes)  | [Repo](https://github.com/Miramoop/Quiz-Tunes-React) <br> [Site](https://www.quiztunes.com/) |
+| <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Repo](https://github.com/Miramoop/miramoop.github.io) <br> [Site](https://miramoop.github.io/) | [Repo](https://github.com/Miramoop/miramoop-github-io-react) <br> [Site](https://www.miramoop.com/) |
 
 ![Miramoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=miramoop&hide=contribs&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miramoop&hide_progress=true)
