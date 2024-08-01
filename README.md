@@ -22,7 +22,7 @@ Portfolio Website React Repo: [Portfolio Website React](https://github.com/Miram
 
 Link to Website: [https://www.miramoop.com/](https://www.miramoop.com/)
 
-[![Miramoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=miramoop&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Miramoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=miramoop&hide=contribs)](https://github.com/miramoop/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
