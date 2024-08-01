@@ -22,6 +22,7 @@
     <summary>Click to show / hide <code>Stats</code></summary><br>
   
 ![Miramoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=miramoop&hide=contribs&show_icons=true&theme=transparent)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miramoop&hide_progress=true)
 
 [[↑ Back to Top ↑]](#-table-of-contents)
