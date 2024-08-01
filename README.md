@@ -1,3 +1,5 @@
+<img src="miramoopLogo.png" alt="Miramoop Logo" width="300">
+
 <h1 align="left">I'm Miranda Morris</h1>
 
 - Senior at Davenport University 
