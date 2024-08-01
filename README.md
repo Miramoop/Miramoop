@@ -1,10 +1,8 @@
-```markdown
-
 | First Header  | Second Header |
 | ------------- | ------------- |
 | <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  |
 | Content Cell  | Content Cell  |
-```
+
 
 <div align="center">
 <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">
