@@ -9,8 +9,8 @@
 - [📝 Table of Contents](#-table-of-contents)
 - [📝 Main Projects](#-main-projects)
 - [📝 Stats](#-stats)
-- [📝 Connect with Me](#-connect-w-me)
-- [📝 Langugaes & Tools](#-languages--tools)
+- [📝 Connect w/ Me](#-connect-w-me)
+- [📝 Languages & Tools](#-languages--tools)
   
 ## 📝 Main Projects
 <details open>
@@ -33,7 +33,7 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miramoop&hide_progress=true)
 
-[[↑ Back to Top ↑]](#-table-of-contents)
+<p align="right">[[↑ Back to Top ↑]](#-table-of-contents)</p>
 
 </details>
 
