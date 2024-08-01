@@ -3,6 +3,13 @@
 - Senior at Davenport University 
 
 - Studying CompSci w/ Concentration in Gaming & Simulation
+
+## 📝 Table of Contents
+
+- [📝 Table of Contents](#-table-of-contents)
+- [Main Projects](#-main-projects)
+- [Stats](#-stats)
+
   
 ## Main Projects
 <details>
