@@ -18,7 +18,7 @@ Portfolio Website Repo: [Portfolio Website](https://github.com/Miramoop/miramoop
 
 Link to Website: [https://miramoop.github.io/](https://miramoop.github.io/)
 
-Portfolio Website React Repo: [Portfolio Website React](https://github.com/Miramoop/miramoop.github.io.react)
+Portfolio Website React Repo: [Portfolio Website React](https://github.com/Miramoop/miramoop-github-io-react)
 
 Link to Website: [https://www.miramoop.com/](https://www.miramoop.com/)
 
