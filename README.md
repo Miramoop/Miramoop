@@ -7,11 +7,11 @@
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
-- [Main Projects](#-main-projects)
-- [Stats](#-stats)
+- [📝 Main Projects](#-main-projects)
+- [📝 Stats](#-stats)
 
   
-## Main Projects
+## 📝 Main Projects
 <details>
     <summary>Click to show / hide <code>Main Projects</code></summary><br>
 
@@ -24,7 +24,7 @@
 
 </details>
   
-## Stats
+## 📝 Stats
 <details>
     <summary>Click to show / hide <code>Stats</code></summary><br>
   
