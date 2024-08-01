@@ -36,11 +36,17 @@
 
 </details>
 
+## 📝 Connect w/ Me:
+<details>
+    <summary>Click to show / hide <code>Connect w/ Me</code></summary><br>
+  
+<a href="https://linkedin.com/in/mirandamorris845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://juniperistic.itch.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch.io" height="40" width="40" /></a>
+</p>
 
-<h2 align="left">Stats:</h2>
+[[↑ Back to Top ↑]](#-table-of-contents)
 
-![Miramoop's GitHub stats](https://github-readme-stats.vercel.app/api?username=miramoop&hide=contribs&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miramoop&hide_progress=true)
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
