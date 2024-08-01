@@ -1,6 +1,6 @@
-| First Header  | Second Header |
+| Projects  | Link |
 | ------------- | ------------- |
-| <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  |
+| <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Quiz Tunes](https://github.com/Miramoop/Quiz-Tunes)  |
 | Content Cell  | Content Cell  |
 
 
