@@ -1,8 +1,20 @@
-<h1 align="left">I'm Miranda Morris</h1>
+<details>
+    <summary>Click to show / hide <code>Intro</code></summary><br>
+  <h1 align="left">I'm Miranda Morris</h1>
 
 - Senior at Davenport University 
 
 - Studying CompSci w/ Concentration in Gaming & Simulation
+
+[[↑ Back to Top ↑]](#-table-of-contents)
+
+</details>
+
+
+
+
+
+
   
 <h2 align="left">Main Projects:</h2>
 
