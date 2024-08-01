@@ -1,6 +1,6 @@
+## Intro
 <details>
     <summary>Click to show / hide <code>Intro</code></summary><br>
-  <h1 align="left">I'm Miranda Morris</h1>
 
 - Senior at Davenport University 
 
