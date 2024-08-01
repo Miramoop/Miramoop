@@ -1,6 +1,7 @@
 <div align="center">
 <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">
 </div>
+
 <h1 align="left">I'm Miranda Morris</h1>
 
 - Senior at Davenport University 
