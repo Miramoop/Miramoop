@@ -1,6 +1,6 @@
-| Projects  | Original | Site | React | Site |
+| Projects  | Original | React |
 | ------------- | ------------- | ------------- | ------------- |------------- |
-| <img align="center" src="QuizTunesLogo.png" alt="Quiz Tunes Logo" width="300">  | [Quiz Tunes Repo](https://github.com/Miramoop/Quiz-Tunes) <br>[Quiz Tunes Site](https://miramoop.github.io/Quiz-Tunes)  | [Quiz Tunes React Repo](https://github.com/Miramoop/Quiz-Tunes-React) | [Quiz Tunes Site](https://www.quiztunes.com/) |
+| <img align="center" src="QuizTunesLogo.png" alt="Quiz Tunes Logo" width="300">  | [Quiz Tunes Repo](https://github.com/Miramoop/Quiz-Tunes) <br>[Quiz Tunes Site](https://miramoop.github.io/Quiz-Tunes)  | [Quiz Tunes React Repo](https://github.com/Miramoop/Quiz-Tunes-React) <br> [Quiz Tunes Site](https://www.quiztunes.com/) |
 | <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Portfolio Website](https://github.com/Miramoop/miramoop.github.io) | |
 
 
