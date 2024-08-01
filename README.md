@@ -1,4 +1,4 @@
-<img src="miramoopLogo.png" alt="Miramoop Logo" width="300">
+<img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">
 
 <h1 align="left">I'm Miranda Morris</h1>
 
