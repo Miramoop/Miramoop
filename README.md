@@ -7,12 +7,12 @@
 ## 📝 Table of Contents
 
 - [📝 Table of Contents](#-table-of-contents)
-- [📝 Main Projects](#-main-projects)
-- [📝 Stats](#-stats)
-- [📝 Connect w/ Me](#-connect-w-me)
-- [📝 Languages & Tools](#-languages--tools)
+- [📁 Main Projects](#-main-projects)
+- [📊 Stats](#-stats)
+- [🔔 Connect w/ Me](#-connect-w-me)
+- [📱 Languages & Tools](#-languages--tools)
   
-## 📝 Main Projects
+## 📁 Main Projects
 <details open>
     <summary>Click to show / hide <code>Main Projects</code></summary><br>
 
@@ -25,7 +25,7 @@
 
 </details>
   
-## 📝 Stats
+## 📊 Stats
 <details open>
     <summary>Click to show / hide <code>Stats</code></summary><br>
   
@@ -37,7 +37,7 @@
 
 </details>
 
-## 📝 Connect w/ Me:
+## 🔔 Connect w/ Me:
 <details open>
     <summary>Click to show / hide <code>Connect w/ Me</code></summary><br>
   
@@ -49,7 +49,7 @@
 
 </details>
 
-## 📝 Languages & Tools:
+## 📱 Languages & Tools:
 <details open>
     <summary>Click to show / hide <code>Languages & Tools</code></summary><br>
   
