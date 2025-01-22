@@ -1,6 +1,6 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
-- BS in CompSci w/ Concentration in Gaming & Simulation
+- Studying a BS in CompSci w/ Concentration in Gaming & Simulation
 
 ## 📝 Table of Contents
 
