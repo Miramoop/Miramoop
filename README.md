@@ -1,6 +1,6 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
-- Davenport University BSc CompSci '25
+- Graduated from Davenport University with a Bachelor of Science in Computer Science w/ Concentration in Gaming & Simulation in April 2025.
 
 ## 📝 Table of Contents
 
