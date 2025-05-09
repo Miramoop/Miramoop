@@ -1,6 +1,6 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
- - Davenport University Graduate with a Bachelor of Science in Computer Science w/ Concentration in Gaming & Simulation
+ - Davenport University Bachelor of Science in Computer Science w/ Concentration in Gaming & Simulation Graduate
 
 ## 📝 Table of Contents
 
