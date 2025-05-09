@@ -39,7 +39,7 @@
 <details open>
     <summary>Click to show / hide <code>Connect w/ Me</code></summary><br>
   
-<a href="https://linkedin.com/in/mirandamorris845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miramoop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://miramoop.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io" height="40" width="40" /></a>
 </p>
 
