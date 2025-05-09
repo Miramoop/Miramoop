@@ -1,6 +1,6 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
-- Studying CompSci w/ Concentration in Gaming & Simulation at Davenport University
+- Davenport University BSc CompSci '25
 
 ## 📝 Table of Contents
 
