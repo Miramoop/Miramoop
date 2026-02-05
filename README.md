@@ -1,6 +1,6 @@
 <h1 align="left">I'm Miranda Morris</h1>
 
- - Davenport University Bachelor of Science in Computer Science w/ Concentration in Gaming & Simulation Graduate
+I'm a Computer Science Graduate from Davenport University with an interest in improving people's lives through technology. One way I've accomplished this is by developing a Discord Chatbot (Project Zenith) that can help users with a variety of daily tasks. I've brought this same belief to my current Software Engineering internship at Consumers Energy by co-leading a project that aims to simplify the contract management of 20,000 documents using AI to drive efficiencies in contract negotiations.
 
 ## 📝 Table of Contents
 
