@@ -6,7 +6,6 @@ I'm a Computer Science Graduate from Davenport University with an interest in im
 
 - [📝 Table of Contents](#-table-of-contents)
 - [📁 Main Projects](#-main-projects)
-- [📊 Stats](#-stats)
 - [🔔 Connect w/ Me](#-connect-w-me)
 - [📱 Languages & Tools](#-languages--tools)
   
