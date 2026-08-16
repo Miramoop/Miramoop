@@ -13,12 +13,12 @@ I'm a Computer Science Graduate from Davenport University with an interest in im
 <details open>
     <summary>Click to show / hide <code>Main Projects</code></summary><br>
 
-| Projects  | Original | React |
+| Projects  | Original | React | Vite |
 | ------------- | ------------- | ------------- |
 | <img align="center" src="ProjectZenithLogo.png" alt="Project Zenith Logo" width="300">  | [Repo](https://github.com/SFleming12/CSCI497-Project) |
 | <img align="center" src="RetroRocketeersLogo.png" alt="Retro Rocketeers Logo" width="300">  | [Repo](https://github.com/Jclayton10/Retro-Rocketeers) |
 | <img align="center" src="QuizTunesLogo.png" alt="Quiz Tunes Logo" width="300">  | [Repo](https://github.com/Miramoop/Quiz-Tunes) <br><br> | [Repo](https://github.com/Miramoop/Quiz-Tunes-React) |
-| <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Repo](https://github.com/Miramoop/miramoop.github.io) <br><br> [Website](https://miramoop.github.io/) | [Repo](https://github.com/Miramoop/miramoop-github-io-react) <br><br> [Website](https://www.miramoop.com/) |
+| <img align="center" src="miramoopLogo.png" alt="Miramoop Logo" width="300">  | [Repo](https://github.com/Miramoop/miramoop.github.io) <br><br> [Website](https://miramoop.github.io/) | [Repo](https://github.com/Miramoop/miramoop-github-io-react) <br><br> [Website](https://www.miramoop.com/) | [Repo]() [Website]() |
 
 [[↑ Back to Top ↑]](#table-of-contents)
 
